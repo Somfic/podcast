@@ -7,7 +7,7 @@
         <link>https://rss.com/podcasts/somfic/</link>
         <atom:link href="https://raw.githubusercontent.com/Somfic/podcast/main/feed.xml" rel="self" type="application/rss+xml"></atom:link>
         <description>
-            <![CDATA[slowed down music]]>
+            <![CDATA[]]>
         </description>
         <generator>RSS.com</generator>
         <lastBuildDate>Fri, 12 Feb 2021 9:31:02 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
             <link>https://rss.com/podcasts/somfic</link>
         </image>
         <itunes:summary>
-            <![CDATA[slowed down music]]>
+            <![CDATA[]]>
         </itunes:summary>
         <podcast:locked owner="somfic@gmail.com">No</podcast:locked>
         <itunes:author>音楽を遅くした</itunes:author>
